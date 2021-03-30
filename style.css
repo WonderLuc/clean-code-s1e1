@@ -95,7 +95,7 @@ label[for="add-todo__input"] {
 #add-todo__input {
   width: 318px;
 }
-p > button:hover {
+section > button:hover {
   color: #0fc57c;
 }
 
