@@ -17,7 +17,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .reference-info {
      text-align: center;
@@ -57,7 +57,7 @@ button{
   cursor: pointer;
 }
 .btn:hover {
-  color: #3a3A3a;
+  color: #3a3a3a;
 }
 /* Heading */
 h3,
@@ -76,7 +76,7 @@ input[type="text"] {
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #dDd;
+  border: 1px solid #ddd;
   background: #FFF;
   border-radius: 6px;
   font-family: Lato, sans-serif;
@@ -120,7 +120,7 @@ section > button:hover {
   font-size: 18px;
   width: 226px;
 }
-.task >    input[type="text"] {
+.task > input[type="text"] {
   width: 226px;
 }
 .task > .btn_delete:hover {
